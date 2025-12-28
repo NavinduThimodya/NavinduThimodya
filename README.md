@@ -69,12 +69,3 @@ I have 6 months of industrial experience as an **Infrastructure Intern at Millen
 * **Role:** Full Stack & IoT Developer
 * **Tech:** C, ESP-IDF, Arduino, JavaScript, HTML/CSS
 * **Summary:** Developed an RFID-based asset tracking system for forklifts to enhance real-time inventory management. Recognized as a Top 3 project (out of 49), featuring a scalable architecture and an interactive web monitoring dashboard.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavinduThimodya&show_icons=true&theme=radical" alt="Navindu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduThimodya&layout=compact&theme=radical" alt="Top Languages" />
-</div>
