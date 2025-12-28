@@ -65,10 +65,10 @@ I have 6 months of industrial experience as an **Infrastructure Intern at Millen
 * **Tech:** Python, Deep Learning, EEG Processing
 * **Summary:** Developing a framework that surpasses existing benchmarks in attention-guided speech separation by fusing Audio and EEG data using SOTA architectures (M3ANet, NeuroHeed).
 
-#### 📝 E-Note Platform
-* **Role:** Full Stack Developer
-* **Tech:** MERN Stack (MongoDB, Express, React, Node)
-* **Summary:** Created a platform for sharing educational notes for the Advanced Level Physical Science stream.
+#### 📦 Asset Tracking System for Warehouses (Individual)
+* **Role:** Full Stack & IoT Developer
+* **Tech:** C, ESP-IDF, Arduino, JavaScript, HTML/CSS
+* **Summary:** Developed an RFID-based asset tracking system for forklifts to enhance real-time inventory management[cite: 67]. [cite_start]Recognized as a Top 3 project (out of 49), featuring a scalable architecture and an interactive web monitoring dashboard.
 
 ---
 
