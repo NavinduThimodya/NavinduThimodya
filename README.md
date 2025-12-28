@@ -76,5 +76,5 @@ I have 6 months of industrial experience as an **Infrastructure Intern at Millen
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NavinduThimodya&show_icons=true&theme=radical" alt="Navindu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navindusirimanna&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduThimodya&layout=compact&theme=radical" alt="Top Languages" />
 </div>
