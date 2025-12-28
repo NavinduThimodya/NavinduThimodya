@@ -68,7 +68,7 @@ I have 6 months of industrial experience as an **Infrastructure Intern at Millen
 #### 📦 Asset Tracking System for Warehouses (Individual)
 * **Role:** Full Stack & IoT Developer
 * **Tech:** C, ESP-IDF, Arduino, JavaScript, HTML/CSS
-* **Summary:** Developed an RFID-based asset tracking system for forklifts to enhance real-time inventory management[cite: 67]. [cite_start]Recognized as a Top 3 project (out of 49), featuring a scalable architecture and an interactive web monitoring dashboard.
+* **Summary:** Developed an RFID-based asset tracking system for forklifts to enhance real-time inventory management. Recognized as a Top 3 project (out of 49), featuring a scalable architecture and an interactive web monitoring dashboard.
 
 ---
 
