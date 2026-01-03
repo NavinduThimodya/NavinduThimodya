@@ -8,7 +8,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/navindu-sirimanna-Ob3898212/)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:navindusirimanna@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Website-Portfolio-black?style=for-the-badge&logo=googlechrome)](YOUR_PORTFOLIO_LINK_HERE)
+  [![Portfolio](https://img.shields.io/badge/Website-Portfolio-black?style=for-the-badge&logo=googlechrome)](https://sparkly-platypus-488384.netlify.app)
 </div>
 
 ---
